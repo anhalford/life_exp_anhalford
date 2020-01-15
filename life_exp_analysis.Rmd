@@ -16,3 +16,14 @@ We will examine the famous relationship between year and life expectancy as obse
 # Analysis
 
 Here is the analysis of the data that was observed.
+Loads the data
+```{r}
+library(gapminder)
+data("gapminder_unfiltered")
+gapminder_unfiltered
+```
+
+
+
+
+
