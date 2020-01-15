@@ -13,3 +13,6 @@ knitr::opts_chunk$set(echo = TRUE)
 
 We will examine the famous relationship between year and life expectancy as observed in Oppen and Vaupel (2002).
 
+# Analysis
+
+Here is the analysis of the data that was observed.
